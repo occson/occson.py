@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
   name="occson",
-  version="0.1.0",
+  version="1.0.0",
   author="Tomasz Kowalewski",
   author_email="me@tkowalewski.pl",
   maintainer="Tomasz Kowalewski",
