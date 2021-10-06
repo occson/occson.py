@@ -10,10 +10,10 @@ setuptools.setup(
   author_email="me@tkowalewski.pl",
   maintainer="Tomasz Kowalewski",
   maintainer_email="me@tkowalewski.pl",
-  description="Configuration control system",
+  description="Store, manage and deploy configuration securely with Occson.",
   long_description=long_description,
   long_description_content_type="text/markdown",
-  url="https://github.com/tkowalewski/occson.py",
+  url="https://github.com/occson/occson.py",
   packages=setuptools.find_packages(),
   keywords=['occson'],
   classifiers=[

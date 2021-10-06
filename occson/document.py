@@ -14,4 +14,4 @@ class Document:
     return Downloader(self.uri, self.access_token, self.passphrase).call()
 
   def __build_uri(self, uri):
-    return uri.replace('ccs://', 'https://api.occson.com/')
+    return uri.replace('occson://', 'https://api.occson.com/')
